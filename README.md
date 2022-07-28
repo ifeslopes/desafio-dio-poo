@@ -1,20 +1,3 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://github.com/cami-la/desafio-poo-dio/blob/master/README.md
-Subject: =?utf-8?Q?desafio-poo-dio/README.md=20at=20master=20=C2=B7=20cami-la/desa?=
- =?utf-8?Q?fio-poo-dio?=
-Date: Wed, 27 Jul 2022 23:44:01 -0000
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--PfgAhnX94N4joDmXQBWmSuYJlMDYZ7YUtKjjBppNap----"
-
-
-------MultipartBoundary--PfgAhnX94N4joDmXQBWmSuYJlMDYZ7YUtKjjBppNap----
-Content-Type: text/html
-Content-ID: <frame-F580BE0EF206D6F7D4C53A2A17B8FCE6@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://github.com/cami-la/desafio-poo-dio/blob/master/README.md
-
 <!DOCTYPE html><html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system" data-turbo-loaded=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-5a3373b8-fbef-4b00-8f0b-aa6b3ac6a924@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-fd8e3e0f-6ee1-4baa-ae97-30175e1a3ef3@mhtml.blink" />
     
   <link rel="dns-prefetch" href="https://github.githubassets.com/">
